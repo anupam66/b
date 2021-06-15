@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'db1',
         'USER':'postgres',
         'PASSWORD':'root',
-        'HOST':'localhost',
+        'HOST':'smartblogger.herokuapp.com',
 
     }
 }
