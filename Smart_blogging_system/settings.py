@@ -80,12 +80,12 @@ WSGI_APPLICATION = 'Smart_blogging_system.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'db1',
-        'USER':'postgres',
-        'PASSWORD':'root',
+        'NAME': 'd15jbas23c7uc3',
+        'USER':'jsesmphdbzoqdf',
+        'PASSWORD':'aa7d20491cb9931cc82cf251df73f46ff6e7484071bf641cce21da21ef35e96d',
         # 'HOST':'127.0.0.1',
         # 'HOST':'localhost',
-        'HOST':'smartblogger.herokuapp.com',
+        'HOST':'ec2-52-6-77-239.compute-1.amazonaws.com',
 
 
     }
